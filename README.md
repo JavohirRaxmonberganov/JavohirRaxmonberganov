@@ -7,4 +7,4 @@
 ⚡ Fun fact : `One day you'll look back and realize that you worried too much about things that don't really matter.` \
 \
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=JavokhirMedia&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavokhirMedia&layout=compact&theme=radical) \
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JavokhirMedia/) [![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JavokhirMedia/) [![wakatime](https://wakatime.com/badge/user/582f0586-04d8-4d30-aec7-26e33f9979a8.svg)](https://wakatime.com/@582f0586-04d8-4d30-aec7-26e33f9979a8)
