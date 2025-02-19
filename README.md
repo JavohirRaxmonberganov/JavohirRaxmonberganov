@@ -1,8 +1,8 @@
 👋 What's up guys, I'm Javokhir \
-💻 I know PHP & MYSQL & OOP \
+💻 I know PHP & MYSQL & Laravel \
 👨‍💻 I’m looking to collaborate on projects \
-💬 I'm 17-years old developer from Uzbekistan/Khorezm \
-🌐 My web-site [www.javokhir-media.uz](https://javokhir-media.uz) \
+💬 I'm 18-years old developer from Uzbekistan/Khorezm \
+🌐 My web-site [www.javokhir.me](https://javokhir.me) \
 📫 Reach me on [![Rakhmonberganov Javokhir](https://img.shields.io/badge/JavokhirMedia-30302f?style=flat&logo=telegram)](https://t.me/JavohirRaxmonberganov) \
 ⚡ Fun fact : `One day you'll look back and realize that you worried too much about things that don't really matter.` \
 \
